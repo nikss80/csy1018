@@ -1,0 +1,12 @@
+body{
+	margin 15; font-size: 20;
+}
+header{
+	font-size: 25; background-color: green; padding: 5%; text-align: center;
+}
+section {
+	font-size: 30; background-color: red; padding: 10%;
+}
+footer{
+	font-size: 10; background-color: green; padding: 5%; text-align: center;
+}
